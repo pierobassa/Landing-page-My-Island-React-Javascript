@@ -7,6 +7,9 @@ Previews:
 ![ezgif com-gif-maker (22)](https://user-images.githubusercontent.com/64158778/138352952-6578d9ac-9d2c-4a51-a9f0-b1a0023a490b.gif)
 
 Installation:
+
 npx create-react-app 
+
 npm install @material-ui/core @mui/material @emotion/react @emotion/styled @mui/icons-material
+
 npm install react-scroll
